@@ -3,7 +3,7 @@
 # And see https://gohugo.io/getting-started/configuration/ .
 
 baseURL = "http://localhost:1313/"
-title = "Jane - A super concise theme for Hugo"
+title = "一只猫的后花园"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "jane"
