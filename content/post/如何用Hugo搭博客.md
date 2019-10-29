@@ -4,6 +4,7 @@ date: 2019-09-12T15:21:31+08:00
 draft: false
 ---
 Hugo号称是世界上最快的博客生成器，它使用Go语言，速度碾压使用js的Hexo，越来越多人选择从Hexo迁移到Hugo，我也不例外。那么，如何用Hugo搭建一个个人博客呢？
+<!--more-->
 
 #### 第一步：安装Hugo（仅针对Winodws用户）
 - 在[Hugo下载页面](https://github.com/gohugoio/hugo/releases)下载Hugo压缩包，并且解压到合适位置

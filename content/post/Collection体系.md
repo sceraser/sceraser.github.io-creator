@@ -6,6 +6,7 @@ draft: false
 ## Collection体系
 - Collection是java中非常重要的一个接口。提供了多组实用的根接口
 - Collection最重要的两个东西，是List/Set约定
+ <!--more-->
 - Collection体系提供的常用方法有：
 - new: new ArrayList(Collection), new ArrayList() 
   - R: size()/isEmpty()/contains()/for()/stream() 
